@@ -1,4 +1,4 @@
-# Myre Lector Andre Morada
+# Hi! I'm Myre Lector 👋
 
 4th-year CS student · React Native & TypeScript · open to internships
 
