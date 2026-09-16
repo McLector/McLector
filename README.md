@@ -1,6 +1,6 @@
 # Hi! I'm Myre Lector 👋
 
-## 4th-year CS student at De La Salle Lipa University · React Native & TypeScript · OPEN for INTERNSHIPS
+## 4th-year CS student at De La Salle Lipa University · React Native & TypeScript · Open for Intership
 
 Most of what I build starts as a project given or problem I actually had and sometimes for the fun of it, for love of passion.
 
