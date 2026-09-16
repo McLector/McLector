@@ -14,6 +14,8 @@ Most of what I build starts as a project given or problem I actually had and som
 
 🎙️ **[mal-voice-assistant](https://github.com/McLector/mal-voice-assistant)** *(complete)* — a local-first voice assistant: Groq Whisper STT + LLM + Windows SAPI TTS. A quick, finished side project.
 
+🔌 **[ESP32 Study Monitor](https://github.com/McLector/esp32-study-monitor)** *(complete)* — a desk-mounted IoT ergonomics monitor: ESP32 + IR/PIR/sound/temperature sensors track study time and distractions, alert you to take a break, and report live to a Blynk dashboard. Hardware + firmware, including a full debugging writeup for the trickiest sensor.
+
 **Currently building:** *Vahlorun*, a browser-based pixel-art RPG — still in planning. And more to come~
 
 ---
