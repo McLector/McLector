@@ -1,6 +1,6 @@
 # Hi! I'm Myre Lector 👋
 
-4th-year CS student · React Native & TypeScript · open to internships
+4th-year CS student at De La Salle Lipa University · React Native & TypeScript · open to internships
 
 Most of what I build starts as a problem I actually had.
 
