@@ -20,6 +20,17 @@ Most of what I build starts as a project given or problem I actually had and som
 
 ---
 
-**Stack:** TypeScript · React Native · Expo · Next.js · Supabase/PostgreSQL · Python · C++
+**Skills & Tools**
+
+```
+» Languages:          TypeScript, JavaScript, Python, C++
+» Mobile:             React Native, Expo, React Navigation
+» Frontend:           Next.js, Tailwind CSS, Zustand, Shadcn/ui
+» Backend/Data:       Supabase (Auth, Postgres, RLS, Realtime), PostgreSQL, PostGIS
+» Hardware/IoT:       ESP32, Arduino, Blynk
+» Design:             Figma
+» Project Management: Azure DevOps (Agile/Scrum)
+» Dev Tools:          Git, Vercel, Render, Claude Code, Codex, Antigravity, OpenCode, Cline CLI
+```
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/myremorada/) · [Email](mailto:moradamyre@gmail.com) · Portfolio <!-- TODO: add portfolio URL -->
