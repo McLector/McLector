@@ -1,8 +1,8 @@
 # Hi! I'm Myre Lector 👋
 
-4th-year CS student at De La Salle Lipa University · React Native & TypeScript · open to internships
+## 4th-year CS student at De La Salle Lipa University · React Native & TypeScript · OPEN for INTERNSHIPS
 
-Most of what I build starts as a problem I actually had.
+Most of what I build starts as a project given or problem I actually had and sometimes for the fun of it, for love of passion.
 
 ⚔️ **[Eiyu-System](https://github.com/McLector/Eiyu-System)** *(in progress)* — habit apps guilt you into streaks, so I'm building one that turns daily habits into RPG character progression (Solo Leveling aesthetic), grounded in Atomic Habits mechanics. React Native + Expo + Supabase. [Live demo](https://eiyu-system.vercel.app)
 
@@ -14,7 +14,7 @@ Most of what I build starts as a problem I actually had.
 
 🎙️ **[mal-voice-assistant](https://github.com/McLector/mal-voice-assistant)** *(complete)* — a local-first voice assistant: Groq Whisper STT + LLM + Windows SAPI TTS. A quick, finished side project.
 
-**Currently building:** *Vahlorun*, a browser-based pixel-art RPG — still in planning.
+**Currently building:** *Vahlorun*, a browser-based pixel-art RPG — still in planning. And more to come~
 
 ---
 
