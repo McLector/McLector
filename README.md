@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi!+I'm+Myre+Morada.;Full-Stack+Software+Developer+%7C+CS+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi!+I'm+Myre+Morada.;Software+Developer+%7C+CS+Student" alt="Typing SVG" /></a>
 
 ### 4th-year CS student at De La Salle Lipa University
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=React+Native+%26+TypeScript+Developer;Open+for+Internship+%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=Open+for+Internship+%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
 
 <br/>
 
