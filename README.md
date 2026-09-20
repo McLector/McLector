@@ -33,4 +33,4 @@ Most of what I build starts as a project given or problem I actually had and som
 » Dev Tools:          Git, Vercel, Render, Claude Code, Codex, Antigravity, OpenCode, Cline CLI
 ```
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/myremorada/) · [Email](mailto:moradamyre@gmail.com) · Portfolio <!-- TODO: add portfolio URL -->
+**Contact:** [LinkedIn](https://www.linkedin.com/in/myremorada/) · [Email](mailto:moradamyre@gmail.com) · [Portfolio](https://mclector-dev.vercel.app/)
