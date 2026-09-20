@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi!+I'm+Myre+Lector.;React+Native+%7C+TypeScript+%7C+CS+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi!+I'm+Myre+Morada.;Full-Stack+Software+Developer+%7C+CS+Student" alt="Typing SVG" /></a>
 
 ### 4th-year CS student at De La Salle Lipa University
 
@@ -53,8 +53,8 @@ Most of what I build starts as a project given or problem I actually had — and
 #### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-453B37?style=for-the-badge&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 #### Backend & Data
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -78,16 +78,5 @@ Most of what I build starts as a project given or problem I actually had — and
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=McLector&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McLector&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=McLector&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=McLector&color=58a6ff&style=flat-square&label=Profile+Views" />
-
 </div>
