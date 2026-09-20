@@ -1,36 +1,93 @@
-# Hi! I'm Myre Lector.
+<div align="center">
 
-## 4th-year CS student at De La Salle Lipa University · React Native & TypeScript · Open for Internship
+<!-- Animated typing header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi!+I'm+Myre+Lector.;React+Native+%7C+TypeScript+%7C+CS+Student" alt="Typing SVG" /></a>
 
-Most of what I build starts as a project given or problem I actually had and sometimes for the fun of it, for love of passion.
+### 4th-year CS student at De La Salle Lipa University
 
-**-[Eiyu-System](https://github.com/McLector/Eiyu-System)** *(in progress)* — habit apps guilt you into streaks, so I'm building one that turns daily habits into RPG character progression (Solo Leveling aesthetic), grounded in Atomic Habits mechanics. React Native + Expo + Supabase. [Live demo](https://eiyu-system.vercel.app)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=React+Native+%26+TypeScript+Developer;Open+for+Internship+%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
 
-**-[TaskBuddy](https://github.com/erianthe17/taskbuddy)** *(in progress, group thesis project)* — a Philippine home-services marketplace: clients post jobs, providers apply, and a Random Forest model invites the best-matched providers once a job passes its urgency deadline. Hiring moves real money through an escrow-backed wallet. My role: mobile developer, scrum master for our agile sprints, and big part on the planning document and paper.
+<br/>
 
-**-[StarkRent](https://github.com/McLector/Stark-Rent)** *(in progress)* — a construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myremorada/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradamyre@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mclector-dev.vercel.app/)
 
-**-[CleanOps](https://github.com/McLector/cleanOps)** *(team project — QA)* — a Next.js service marketplace for cleaning jobs with real-time geolocation, a mock escrow system, and job dispatching. My role: QA and primary tester, running feedback cycles with the developer; I also contributed to the planning document rather than the implementation.
+</div>
 
-**-[mal-voice-assistant](https://github.com/McLector/mal-voice-assistant)** *(complete)* — a local-first voice assistant: Groq Whisper STT + LLM + Windows SAPI TTS. A quick, finished side project.
+---
 
-**-[ESP32 Study Monitor](https://github.com/McLector/esp32-study-monitor)** *(complete)* — a desk-mounted IoT ergonomics monitor: ESP32 + IR/PIR/sound/temperature sensors track study time and distractions, alert you to take a break, and report live to a Blynk dashboard. Hardware + firmware, including a full debugging writeup for the trickiest sensor.
+Most of what I build starts as a project given or problem I actually had — and sometimes just for the fun of it.
+
+## Projects
+
+**[Eiyu-System](https://github.com/McLector/Eiyu-System)** *(in progress)* — habit apps guilt you into streaks, so I'm building one that turns daily habits into RPG character progression (Solo Leveling aesthetic), grounded in Atomic Habits mechanics. React Native + Expo + Supabase. [Live demo](https://eiyu-system.vercel.app)
+
+**[TaskBuddy](https://github.com/erianthe17/taskbuddy)** *(in progress, group thesis project)* — a Philippine home-services marketplace: clients post jobs, providers apply, and a Random Forest model invites the best-matched providers once a job passes its urgency deadline. Hiring moves real money through an escrow-backed wallet. My role: mobile developer, scrum master for our agile sprints, and big part on the planning document and paper.
+
+**[StarkRent](https://github.com/McLector/Stark-Rent)** *(in progress)* — a construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
+
+**[CleanOps](https://github.com/McLector/cleanOps)** *(team project — QA)* — a Next.js service marketplace for cleaning jobs with real-time geolocation, a mock escrow system, and job dispatching. My role: QA and primary tester, running feedback cycles with the developer; I also contributed to the planning document rather than the implementation.
+
+**[mal-voice-assistant](https://github.com/McLector/mal-voice-assistant)** *(complete)* — a local-first voice assistant: Groq Whisper STT + LLM + Windows SAPI TTS. A quick, finished side project.
+
+**[ESP32 Study Monitor](https://github.com/McLector/esp32-study-monitor)** *(complete)* — a desk-mounted IoT ergonomics monitor: ESP32 + IR/PIR/sound/temperature sensors track study time and distractions, alert you to take a break, and report live to a Blynk dashboard. Hardware + firmware, including a full debugging writeup for the trickiest sensor.
 
 **Currently building:** *Vahlorun*, a browser-based pixel-art RPG — still in planning. And more to come~
 
 ---
 
-**Skills & Tools**
+## Skills & Tools
 
-```
-» Languages:          TypeScript, JavaScript, Python, C++
-» Mobile:             React Native, Expo, React Navigation
-» Frontend:           Next.js, Tailwind CSS, Zustand, Shadcn/ui
-» Backend/Data:       Supabase (Auth, Postgres, RLS, Realtime), PostgreSQL, PostGIS
-» Hardware/IoT:       ESP32, Arduino, Blynk
-» Design:             Figma
-» Project Management: Azure DevOps (Agile/Scrum)
-» Dev Tools:          Git, Vercel, Render, Claude Code, Codex, Antigravity, OpenCode, Cline CLI
-```
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/myremorada/) · [Email](mailto:moradamyre@gmail.com) · [Portfolio](https://mclector-dev.vercel.app/)
+#### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white)
+
+#### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### Backend & Data
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Hardware & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### Design & Project Management
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+#### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=McLector&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McLector&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+
+<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=McLector&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=McLector&color=58a6ff&style=flat-square&label=Profile+Views" />
+
+</div>
