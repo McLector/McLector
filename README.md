@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi!+I'm+Myre+Lector.;React+Native+%7C+TypeScript+%7C+CS+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi!+I'm+Myre+Lector.;
+                                Software+Developer+%7C+CS+Student" alt="Typing SVG" /></a>
 
 ### 4th-year CS student at De La Salle Lipa University
 
