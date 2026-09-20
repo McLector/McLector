@@ -19,7 +19,7 @@
 
 Most of what I build starts as a project given or problem I actually had — and sometimes just for the fun of it.
 
-## Projects
+## Featured Projects
 
 **[Eiyu-System](https://github.com/McLector/Eiyu-System)** *(in progress)* — habit apps guilt you into streaks, so I'm building one that turns daily habits into RPG character progression (Solo Leveling aesthetic), grounded in some Atomic Habits concepts. React Native + Expo + Supabase. [Live demo](https://eiyu-system.vercel.app)
 
