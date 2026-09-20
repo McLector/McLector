@@ -5,7 +5,7 @@
 
 ### 4th-year CS student at De La Salle Lipa University
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=Open+for+Internship+%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=Open+for+Internship+•+Freelance%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
 
 <br/>
 
