@@ -19,7 +19,7 @@
 
 ---
 
-Most of what I build starts as a project given or problem I actually had — and sometimes just for the fun of it.
+Most of what I build starts as a project given or problem I actually had and like sometimes just for the fun of it.
 
 ## Featured Projects
 
