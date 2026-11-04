@@ -3,7 +3,7 @@
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=130&lines=Hi!+I'm+Myre+Lector.;Aspiring+Software+Developer;Computer+Science" alt="Typing SVG" /></a>
 
-### 4th-year CS student at De La Salle Lipa University
+### 4th-year CS student at De La Salle Lipa
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=420&height=24&lines=Open+for+Internship+%E2%80%A2+Freelance+%F0%9F%9A%80;Building+things+that+matter" alt="Subtitle" />
