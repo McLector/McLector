@@ -29,7 +29,7 @@ Most of what I build starts as a project given or problem I actually had and lik
 
 **[StarkRent](https://github.com/McLector/Stark-Rent)** — a construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
 
-**[CleanOps](https://github.com/McLector/cleanOps)** *(team project — QA)* — a Next.js service marketplace for cleaning jobs with real-time geolocation, a mock escrow system, and job dispatching. My role: QA and primary tester, running feedback cycles with the developer; I also contributed to the planning document rather than the implementation.
+**[CleanOps](https://github.com/McLector/cleanOps)** *(team project — QA)* — a Next.js service marketplace for cleaning jobs with real-time geolocation, a mock escrow system, and job dispatching. My role: QA and primary tester, running feedback cycles with the developer; also contributed to the planning document rather than the implementation.
 
 **[mal-voice-assistant](https://github.com/McLector/mal-voice-assistant)** — a local-first voice assistant: Groq Whisper STT + LLM + Windows SAPI TTS. A quick, finished side project.
 
