@@ -27,7 +27,7 @@ Most of what I build starts as a project given or problem I actually had and lik
 
 **[TaskBuddy](https://github.com/erianthe17/taskbuddy)** — a Philippine home-services marketplace: clients post jobs, providers apply, and a Random Forest model invites the best-matched providers once a job passes its urgency deadline. Hiring moves real money through an escrow-backed wallet. My role: mobile developer, scrum master for our agile sprints, and big part on the planning document and paper.
 
-**[StarkRent](https://github.com/McLector/Stark-Rent)** — a construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
+**[StarkRent](https://github.com/McLector/Stark-Rent)** — A construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
 
 **[CleanOps](https://github.com/McLector/cleanOps)** *(team project — QA)* — a service marketplace for cleaning jobs with real-time geolocation, a mock escrow system, and job dispatching. My role: QA and primary tester, running feedback cycles with the developer; also contributed to the planning document rather than the implementation.
 
