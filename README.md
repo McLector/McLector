@@ -25,7 +25,7 @@ Most of what I build starts as a project given or problem I actually had and lik
 
 **[Eiyu-System](https://github.com/McLector/Eiyu-System)** — habit apps guilt you into streaks, so I'm building one that turns daily habits into RPG character progression (RPG Game aesthetic), grounded in some Atomic Habits concepts. React Native + Expo + Supabase. [Live demo](https://eiyu-system.vercel.app)
 
-**[TaskBuddy](https://github.com/erianthe17/taskbuddy)** — a Philippine home-services marketplace: clients post jobs, providers apply, and a Random Forest model invites the best-matched providers once a job passes its urgency deadline. Hiring moves real money through an escrow-backed wallet. My role: mobile developer, scrum master for our agile sprints, and big part on the planning document and paper.
+**[TaskBuddy](https://github.com/erianthe17/taskbuddy)** — a Philippine home-services marketplace: clients post jobs, providers apply, and a Random Forest model invites the best-matched providers once a job passes its urgency deadline. Hiring moves real money through an escrow-backed wallet. My role: mobile developer, scrum master for our agile sprints, and also a major contributor on the planning document and paper.
 
 **[StarkRent](https://github.com/McLector/Stark-Rent)** — A construction equipment rental app. React Native + Expo SDK 57 + Supabase, with RLS and a migration-managed schema.
 
